@@ -51,10 +51,10 @@
 <div id='id6' />
 <h2> :smiley: Autora</h2>
 
- [Daniela González.](https://github.com/danyhoshi)
+ <p><img style ="vertical-align: middle" src="githubIcon.png" alt="iconGithub" width=20em"><a href="https://github.com/danyhoshi"> Daniela González</a> </p)
 
 
 <div id='id7' />
 <h2> :unlock: Licencia</h2>
-Este proyecto tiene licencia MIT licensed.
+Este proyecto tiene licencia MIT.
 
